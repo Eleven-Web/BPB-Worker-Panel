@@ -2,6 +2,7 @@
 
 ### 🌏 Readme in [Farsi](README_fa.md)
 
+
 <p align="center">
   <img src="docs/assets/images/Panel.jpg">
 </p>
